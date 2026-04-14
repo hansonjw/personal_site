@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue eclipse — 270° (top) -->
+  <circle cx="50" cy="41" r="40" fill="#1a3a5c" />
+
+  <!-- Yellow eclipse — 30° (lower-right) -->
+  <circle cx="57.794" cy="54.5" r="40" fill="#ffff00" />
+
+  <!-- Red eclipse — 150° (lower-left) -->
+  <circle cx="42.206" cy="54.5" r="40" fill="#3d1f1f" />
+
+  <!-- Main circle fill — black -->
+  <circle cx="50" cy="50" r="40" fill="black" />
+
+  <!-- Crescent fill — dark grey purple -->
+  <path d="M 78.284 21.716 A 40 40 0 0 1 21.716 78.284 A 80 80 0 0 0 78.284 21.716 Z" fill="#1a1520" />
+
+  <!-- Black border — drawn last -->
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="none" />
+</svg>

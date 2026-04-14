@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&family=Playfair+Display:ital@1&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-black: #000000;
+  --color-container: #1a1714;
+  --color-accent-yellow: #e8d44d;
+  --color-accent-blue: #5fbcd3;
+  --font-mono: 'Roboto Mono', monospace;
+  --font-serif: 'Playfair Display', serif;
+}
+
+body {
+  background-color: #000000;
+  color: #d1d5db;
+  font-family: 'Roboto Mono', monospace;
+}

@@ -1,0 +1,14 @@
+# Old site — not part of the project
+src-old-site
+
+# macOS
+.DS_Store
+
+# Editor
+.idea
+.vscode/*
+!.vscode/extensions.json
+
+# AWS credentials — never commit these
+.env
+.env.*
